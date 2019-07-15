@@ -1,2 +1,2 @@
 # OneWM
-Window manager made in python for SmartTV. based on ZeroWM by kathamer
+Window manager made in python. Inspired on ZeroWM by kathamer
