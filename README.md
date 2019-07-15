@@ -1,2 +1,2 @@
-# SmartTV-WM
+# OneWM
 Window manager made in python for SmartTV. based on ZeroWM by kathamer
